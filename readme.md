@@ -6,7 +6,7 @@ is a more prectical and easier to tune derivative of Skeinforge.
 
 ## General
 
-* Will not mess up your old Skeinforge settings as it will use its own sfact_profiles directory inside its own folder.
+* Will not mess up your old Skeinforge settings as it keeps its own settings in the **sfact_profiles** directory.
 
 * Deleted unused plugins and unused settings.
 
@@ -98,7 +98,7 @@ https://github.com/ahmetcemturan/SFACT
 
 You need to have Python installed. If you had Skeinforge running before, your Python installation is sufficient. If you don't yet have Python installed, kliment's Printrun [readme](https://github.com/kliment/Printrun/blob/master/README.md) covers installing the required Python core and modules on various platforms.
 
-**NOTE:** If you intend using SFACT with Pronterface, the section [Using SFACT with Pronterface](#uswp), (below, details the required directory structure.
+**NOTE:** If you intend using SFACT with Pronterface, the section [Using SFACT with Pronterface](#uswp), (below) details the required directory structure.
 
 1. Extract the contents of the downloaded SFACT compressed file to a folder of your choice.
 
@@ -118,7 +118,7 @@ You need to have Python installed. If you had Skeinforge running before, your Py
 
 If you need to calibrate:
 
-1. Print a [Single walled test piece](http://www.thingiverse.com/thing:1637). (It's also available in this [Calibration set](http://www.thingiverse.com/thing:2064)). 
+1. Print a file from the folder **single_wall_calibration_parts**, (or a [Single walled test piece](http://www.thingiverse.com/thing:1637) which also available in this [Calibration set](http://www.thingiverse.com/thing:2064)).
 
 2. Measure the width of the wall.
 
@@ -132,7 +132,7 @@ If you need to calibrate:
 
 7. You are done.  Repeat when needed.  Changing extrusion values should not necessarily require the need for recalibration.
 
-## Using SFACT with Pronterface {#uswp}
+## Using SFACT with Pronterface
 
 Copy all the SFACT files and sub-folders into a folder called **skeinforge** within the **Pronterface** folder.  Then, copy (or move) the **sfact_profiles** folder from the SFACT root folder into the **Pronterface** folder. Without doing so, SFACT won't see the default profiles shipped with it.
 
