@@ -6,7 +6,7 @@ is a more prectical and easier to tune derivative of Skeinforge.
 
 ## General
 
-* Will not mess up your old Skeinforge settings as it will use its own settings, located in the **sfact_settings** directory, inside its own folder.
+* Will not mess up your old Skeinforge settings as it will use its own settings, located in the **sfact_profiles** directory, inside its own folder.
 
 * Deleted unused plugins and unused settings.
 
