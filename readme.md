@@ -98,7 +98,7 @@ https://github.com/ahmetcemturan/SFACT
 
 You need to have Python installed. If you had Skeinforge running before, your Python installation is sufficient. If you don't yet have Python installed, kliment's Printrun [readme](https://github.com/kliment/Printrun/blob/master/README.md) covers installing the required Python core and modules on various platforms.
 
-**NOTE:** If you intend using SFACT with Pronterface, the section [Using SFACT with Pronterface](#uswp), (below) details the required directory structure.
+**NOTE:** If you intend using SFACT with Pronterface, the section [Using SFACT with Pronterface](#uswp) details the required directory structure.
 
 1. Extract the contents of the downloaded SFACT compressed file to a folder of your choice.
 
@@ -132,6 +132,7 @@ If you need to calibrate:
 
 7. You are done.  Repeat when needed.  Changing extrusion values should not necessarily require the need for recalibration.
 
+<a name="uswp"></a>
 ## Using SFACT with Pronterface
 
 Copy all the SFACT files and sub-folders into a folder called **skeinforge** within the **Pronterface** folder.  Then, copy (or move) the **sfact_profiles** folder from the SFACT root folder into the **Pronterface** folder. Without doing so, SFACT won't see the default profiles shipped with it.
