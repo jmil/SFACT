@@ -2,6 +2,8 @@ SFACT
 =
 is a more prectical and easier to tune derivative of Skeinforge.  
 
+A more up to date Readme could be at http://dl.dropbox.com/u/38819298/SFACT%20Readme.txt
+
 # Features
 
 ## General
@@ -155,9 +157,10 @@ Copy all the SFACT files and sub-folders into a folder called **skeinforge** wit
     ____________[SFACT files and folders go here]
 
 
+
 # Bugs
 
-No known bugs.
+LEADIN and SKIN Plugin: see release notes ^^
 
 If you find a bug, please raise an issue here:
 https://github.com/ahmetcemturan/SFACT/issues
