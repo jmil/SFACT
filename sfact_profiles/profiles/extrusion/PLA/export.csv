@@ -3,11 +3,11 @@ _Name                          	Value
 WindowPosition	700+0
 Open File for Export	
 Activate Export	True
-Add _export to filename (filename_export)	True
+Add _export to filename (filename_export)	False
 Also Send Output To:	
-Do Not Delete Comments	True
+Do Not Delete Comments	False
 Delete Crafting Comments	False
-Delete All Comments	False
+Delete All Comments	True
 Do Not Change Output	True
 gcode_small	False
 File Extension (gcode):	gcode
