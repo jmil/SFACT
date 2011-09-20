@@ -3,13 +3,13 @@ _Name                          	Value
 WindowPosition	700+0
 Open File for Fill	
 Activate Fill:	True
-Infill Solidity (ratio):	1.0
+Infill Solidity (ratio):	0.15
 Extrusion Lines extra Spacing (Scaler):	1.0
 Infill Overlap over Perimeter (Scaler):	1.0
 Extra Shells on Alternating Solid Layer (layers):	1
 Extra Shells on Base (layers):	1
 Extra Shells on Sparse Layer (layers):	1
-Fully filled Layers (each top and bottom):	2
+Fully filled Layers (each top and bottom):	3
 Lower Left	True
 Nearest	False
 Infill > Loops > Perimeter	True
@@ -29,6 +29,6 @@ Grid Extra Overlap (ratio):	0.1
 Grid Junction Separation Band Height (layers):	10
 Grid Junction Separation over Octogon Radius At End (ratio):	0.0
 Grid Junction Separation over Octogon Radius At Middle (ratio):	0.0
-Infill Begin Rotation (degrees):	45.0
+Infill Begin Rotation (degrees):	0.0
 Infill Begin Rotation Repeat (layers):	1
 Infill Odd Layer Extra Rotation (degrees):	90.0

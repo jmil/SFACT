@@ -5,12 +5,12 @@ Open File for Craft
 bottom	False
 carve	False
 chamber	False
-clip	True
+clip	False
 comb	False
 cool	False
 dimension	False
 export	False
-fill	False
+fill	True
 inset	False
 jitter	False
 lash	False
