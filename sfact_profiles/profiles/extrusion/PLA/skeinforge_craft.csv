@@ -7,8 +7,8 @@ carve	False
 chamber	False
 clip	False
 comb	False
-cool	False
-dimension	True
+cool	True
+dimension	False
 export	False
 fill	False
 inset	False
