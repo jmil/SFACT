@@ -3,7 +3,7 @@ _Name                          	Value
 WindowPosition	700+0
 Open File for Fill	
 Activate Fill:	True
-Infill Solidity (ratio):	0.35
+Infill Solidity (ratio):	1.0
 Extrusion Lines extra Spacing (Scaler):	1.0
 Infill Overlap over Perimeter (Scaler):	1.0
 Extra Shells on Alternating Solid Layer (layers):	1

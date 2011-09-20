@@ -2,14 +2,14 @@ Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
 Open File for Craft	
-bottom	False
+bottom	True
 carve	False
 chamber	False
 clip	False
 comb	False
 cool	False
 dimension	False
-export	True
+export	False
 fill	False
 inset	False
 jitter	False
