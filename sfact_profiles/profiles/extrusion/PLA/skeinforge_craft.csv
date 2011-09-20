@@ -8,9 +8,9 @@ chamber	False
 clip	False
 comb	False
 cool	False
-dimension	False
+dimension	True
 export	False
-fill	True
+fill	False
 inset	False
 jitter	False
 lash	False
