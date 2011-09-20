@@ -20,8 +20,8 @@ Raft/Support extension in(mm):	2.0
 Name of Support End File:	support_end.gcode
 Name of Support Start File:	support_start.gcode
 Extra Nozzle clearance over Object(ratio):	0.0
-First Layer Main Feedrate (mm/s):	35
-First Layer Perimeter Feedrate (mm/s):	25
+First Layer Main Feedrate (mm/s):	35.0
+First Layer Perimeter Feedrate (mm/s):	25.0
 First Layer Flow Rate Infill(scaler):	1.0
 First Layer Flow Rate Perimeter(scaler):	1.0
 Interface Layers (integer):	0

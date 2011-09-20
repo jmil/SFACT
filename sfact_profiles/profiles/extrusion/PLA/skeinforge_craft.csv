@@ -9,11 +9,11 @@ clip	False
 comb	False
 cool	False
 dimension	False
-export	False
+export	True
 fill	False
 inset	False
 jitter	False
-lash	True
+lash	False
 limit	False
 multiply	False
 preface	False

@@ -5,9 +5,9 @@ Open File for Export
 Activate Export	True
 Add _export to filename (filename_export)	True
 Also Send Output To:	
-Do Not Delete Comments	False
+Do Not Delete Comments	True
 Delete Crafting Comments	False
-Delete All Comments	True
+Delete All Comments	False
 Do Not Change Output	True
 gcode_small	False
 File Extension (gcode):	gcode
