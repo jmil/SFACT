@@ -2,6 +2,6 @@ Format is tab separated lash settings.
 _Name                          	Value
 WindowPosition	700+0
 Open File for Lash	
-Activate Lash if you have backlash in your axes	False
-X Backlash (mm):	0.0
-Y Backlash (mm):	0.0
+Activate Lash if you have backlash in your axes	True
+X Backlash (mm):	0.15
+Y Backlash (mm):	0.3

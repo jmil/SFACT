@@ -3,7 +3,7 @@ _Name                          	Value
 WindowPosition	600+0
 Open File for Craft	
 bottom	False
-carve	True
+carve	False
 chamber	False
 clip	False
 comb	False
@@ -13,7 +13,7 @@ export	False
 fill	False
 inset	False
 jitter	False
-lash	False
+lash	True
 limit	False
 multiply	False
 preface	False
